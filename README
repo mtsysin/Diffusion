@@ -1,0 +1,6 @@
+To install Flickr2K:
+'''
+mkdir -p $PWD/datasets/; cd $PWD/datasets/
+wget https://cv.snu.ac.kr/research/EDSR/Flickr2K.tar
+tar -xvf Flickr2K.tar
+'''
